@@ -6,7 +6,7 @@
 
 ## NSIETE 
   - Spraviť projekt - BN na regresiu s DyT aj bez BN (DO cvika asi idk) 
-  - ![link](https://colab.research.google.com/drive/1slAc4Xek_nt_cQw5ia5twwUX0w-TYicy?usp=sharing#scrollTo=ToTJxJkHp0Bs)
+  - [link](https://colab.research.google.com/drive/1slAc4Xek_nt_cQw5ia5twwUX0w-TYicy?usp=sharing#scrollTo=ToTJxJkHp0Bs)
   - Zapocet 7. tyzden
     
 ## OZNAL 
