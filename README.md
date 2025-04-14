@@ -14,7 +14,7 @@
   - do 16.4. hotovo
 
 ## SMVE
-- Zacat citat co sa robi zapocet je 7. tyzden
+
 
 ## Diplomka
 - ZACNI PICI PPISAT
