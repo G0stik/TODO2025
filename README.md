@@ -24,3 +24,10 @@
 - poster do  April 21, 2025, 8:00 AM
 - prazdna scena s mikrofonom, ideal c++ wrapnute do blueprintu
 - mikrak co prijma zvuk a vypne sa na silence detect
+
+# SKÚŠKY
+| PREDMET | RT | OT |
+| NSIETE | 21.5. | 16.6. |
+| OZNAL | 4.6. | 18.6 |
+| SMVE | 23.5. | 10.6. |
+| TSOFT | 20.5. | 6.6.|
